@@ -7,3 +7,4 @@ navbar:
       href: deb.html
     - text: "Melanie"
       href: Melanie.html  
+theme: “cerulean”
