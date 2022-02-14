@@ -1,0 +1,14 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Deb"
+      href: Deb.html
+    - text: "Melanie"
+      href: Melanie.html  
+output:  
+  html_document:  
+    toc: true  
+    toc_float: true 
+    theme: slate
