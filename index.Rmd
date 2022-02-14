@@ -1,6 +1,6 @@
 ---
 title: "Welcome To Our Website"
-author: "Deborah Carlin and Mel Smee"
+author: "Deborah Carlin and Melanie Smee"
 date: "2/14/2022"
 output: html_document
 ---
@@ -13,7 +13,7 @@ Deborah's Github:
 https://github.com/dfc87
 <br>
 
-Mel's Github:https://github.com/mrs353
+Melanie's Github:https://github.com/melsmee
 
 ![](https://cdn-images-1.medium.com/max/1200/1*MxlvyZoQh2naoSwdloJcCA.jpeg)
 
