@@ -1,6 +1,5 @@
 ---
 title: "Deb"
-author: "Deb"
 date: "2/14/2022"
 output: html_document
 ---
@@ -8,8 +7,14 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+----
 <br>
+
+
 * I am an MPS student in DNRE
 * I am from Long Island and I used to live in NYC 
 * I am a vegetarian
 * I can play guitar
+
+![I went to Disney World over winter break!](IMG_2059 copy.png)
