@@ -4,10 +4,9 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Deb"
-      href: deb.html
+      href: Deb.html
     - text: "Melanie"
-      href: Melanie.html  
-theme: “cerulean”
+      href: Melanie.html 
 output:
   html_document:
     toc: true
