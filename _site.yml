@@ -12,7 +12,5 @@ output:
   html_document:
     toc: true
     toc_float: true
-output:
-  html_document:
-    theme: united
+    theme: cerulean
     highlight: tango
