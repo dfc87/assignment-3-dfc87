@@ -1,14 +1,10 @@
 output_dir: "."
 navbar:
+ title: "Assignment 3"
   left:
     - text: "Home"
       href: index.html
     - text: "Deb"
-      href: Deb.html
+      href: deb.html
     - text: "Melanie"
       href: Melanie.html  
-output:  
-  html_document:  
-    toc: true  
-    toc_float: true 
-    theme: slate
