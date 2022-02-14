@@ -8,7 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+<br>
 * I am an MPS student in DNRE
 * I am from Long Island and I used to live in NYC 
 * I am a vegetarian
