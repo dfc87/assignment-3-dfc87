@@ -15,6 +15,15 @@ https://github.com/dfc87
 
 Melanie's Github:https://github.com/melsmee
 
-![](https://cdn-images-1.medium.com/max/1200/1*MxlvyZoQh2naoSwdloJcCA.jpeg)
+<br>
 
 ## This is where we go to school!
+
+![](https://cdn-images-1.medium.com/max/1200/1*MxlvyZoQh2naoSwdloJcCA.jpeg)
+
+
+
+<br><br>
+
+## How did we meet?
+We are both taking a class called "Collaborative and Reproducible Data Science in R"

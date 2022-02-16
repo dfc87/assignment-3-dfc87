@@ -1,6 +1,5 @@
 ---
-title: "class site"
-
+title: "NTRES 6100"
 output: html_document
 ---
 
