@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ___
 <br>
 
-Some information about me...
+## Some information about me...
 
 - I am from the UK but have lived in Ithaca for 5.5 years
 
