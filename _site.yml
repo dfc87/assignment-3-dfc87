@@ -14,4 +14,4 @@ output:
     toc: true
     toc_float: true
     theme: cerulean
-    highlight: tango
+    highlight: kate
