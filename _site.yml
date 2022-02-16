@@ -8,7 +8,7 @@ navbar:
     - text: "Melanie"
       href: Melanie.html 
     - text: "NTRES 6100"
-      href: class-site.html_document
+      href: ntres.html
 output:
   html_document:
     toc: true
