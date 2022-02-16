@@ -1,0 +1,24 @@
+---
+title: "NTRES 6100"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+<br>
+
+## Click [here](https://nt246.github.io/NTRES-6100-data-science/index.html) to see more info about our class!
+
+<br>
+
+#### Here is something we recently worked on in class
+
+```{r}
+library(tidyverse)
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy))
+```
+
